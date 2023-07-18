@@ -13,7 +13,7 @@ This is a simple to-do app built using React. It allows you to manage and keep t
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:gunash-portfolio/to-do-in-react.git
 2. Navigate to the project directory:
     cd todo-app
 3. Install the dependencies:
