@@ -59,3 +59,41 @@ button.delete-button {
   border: none;
   color: #f44336;
 }
+
+/* Mobile Design */
+@media screen and (max-width: 600px) {
+  .todo-app {
+    max-width: 300px;
+  }
+
+  h1 {
+    font-size: 18px;
+  }
+
+  input {
+    padding: 3px;
+  }
+
+  button {
+    padding: 3px 8px;
+  }
+}
+
+/* Tablet Design */
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  .todo-app {
+    max-width: 600px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  input {
+    padding: 8px;
+  }
+
+  button {
+    padding: 8px 12px;
+  }
+}
