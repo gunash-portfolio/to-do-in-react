@@ -17,5 +17,8 @@ This is a simple to-do app built using React. It allows you to manage and keep t
 2. Navigate to the project directory:
     cd todo-app
 3. Install the dependencies:
-    npm install
+    ```bash 
+        npm install
+
+## Usage
 
