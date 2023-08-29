@@ -21,4 +21,21 @@ This is a simple to-do app built using React. It allows you to manage and keep t
         npm install
 
 ## Usage
+1.Start the development server:
+```bash
+    npm start
+```
+2.Open the app in your browser:
+```arduino
+    http://localhost:3000
+```
+3.You should see the Todo App interface. Enter a task in the input field and click "Add Todo" to add it to the list. To mark a task as completed,click on it.To delete a task,click the "Delete" button next to it.
+## Technologies Used
+- React
+- Javascript
+- CSS
+
+## License
+This project is licensed under the MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
