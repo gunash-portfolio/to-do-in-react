@@ -1,5 +1,6 @@
 # Todo App
-
+![Screenshot](screenshot_1.png)
+![Screenshot](screenshot_2.png)
 This is a simple to-do app built using React. It allows you to manage and keep track of your tasks in a user-friendly interface.
 
 ## Features
